@@ -18,7 +18,7 @@ delayed" PTSD.
 
 <h4>Unit 2</h4>
 
-Methadone clinic, and the target of a prank by [Don Gately](/characters/Don_Gately)
+Methadone clinic, and the target of a prank by [Don Gately](../../characters/Don_Gately/)
 back in the day.
 
 <h4>Unit 3</h4>
@@ -42,4 +42,4 @@ description of the building itself.
 
 Boarded-up and effectively abandoned. Ennet House residents use it for their
 secret relapses; Ennet House residents discovered to be going in there are
-subject to immediate expulsion. Unit 7's rent is paid for by [ETA](/places/ETA).
+subject to immediate expulsion. Unit 7's rent is paid for by [ETA](../ETA/).

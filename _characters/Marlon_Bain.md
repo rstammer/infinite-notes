@@ -6,7 +6,7 @@ permalink: /characters/Marlon_Bain/
 Marlon Bain
 -----------
 
-[ETA](/places/ETA) alumnus; [Orin's](/characters/Orin) former doubles partner.
+[ETA](../../places/ETA/) alumnus; [Orin's](../Orin/) former doubles partner.
 Had some chronic condition that made him sweat near constantly. Became OCD later
 in life.
 

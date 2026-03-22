@@ -4,31 +4,31 @@ permalink: /characters/
 ---
 
 * The Incandenza Family
-  * [Himself](/characters/Himself)
-  * [Avril](/characters/Avril)
-  * [Orin](/characters/Orin)
-  * [Hal](/characters/Hal)
-  * [Mario](/characters/Mario)
+  * [Himself](Himself/)
+  * [Avril](Avril/)
+  * [Orin](Orin/)
+  * [Hal](Hal/)
+  * [Mario](Mario/)
 * Les Assassins en Fauteuils Roulants (Quebecois Separatists)
-  * [Guillaume DuPlessis](/characters/DuPlessis)
+  * [Guillaume DuPlessis](DuPlessis/)
   * Luria P.--
-  * [Antitoi Bros.](/characters/Antitoi_Brothers)
-  * [Marathe](/characters/Marathe)
+  * [Antitoi Bros.](Antitoi_Brothers/)
+  * [Marathe](Marathe/)
 * the Brighton projects
   * Reginald
   * Wardine
   * Roy Tony
-  * [Poor Tony Krause](/characters/Poor_Tony)
+  * [Poor Tony Krause](Poor_Tony/)
 * E.T.A.
   * students
     * Abram, Shoshana
-    * [Arslanian, Idris](/characters/Idris_Arslanian)
-    * [Axford, Trevor ('Axhandle')](/characters/Axford)
+    * [Arslanian, Idris](Idris_Arslanian/)
+    * [Axford, Trevor ('Axhandle')](Axford/)
     * Bash, Jennie
     * Blott, Kent
     * Boone, Bridget
     * Chu, LaMont
-    * [Coyle, Kyle D.](/characters/Coyle)
+    * [Coyle, Kyle D.](Coyle/)
     * Criess, Jolene
     * Csikszentmihalyi, Zoltan
     * Doucette, Anton ('The Booger')
@@ -48,7 +48,7 @@ permalink: /characters/
     * Makulic, Barnard
     * McKenna, Kiernan
     * Pearson, Heath
-    * [Pemulis, Michael](/characters/Pemulis)
+    * [Pemulis, Michael](Pemulis/)
     * Penn, J.J.
     * Peterson, Timmy ('Sleepy T.P.')
     * Possalthwaite, Todd
@@ -56,57 +56,57 @@ permalink: /characters/
     * Rader, ___
     * Redondo, Guglielmo
     * Reynes, Esteban
-    * [Schacht, Ted](/characters/Schacht)
+    * [Schacht, Ted](Schacht/)
     * Shaw, ('Tall') Paul
     * Siress, Erica
     * Spodek, Carol
-    * [Stice, Ortho ('The Darkness')](/characters/Ortho)
+    * [Stice, Ortho ('The Darkness')](Ortho/)
     * Stott, Donni (*student??*)
-    * [Struck, Jim](/characters/Struck)
+    * [Struck, Jim](Struck/)
       * occasional Sox cap, braces (pp. 638)
     * Tallat-Kelpsa, Andern
     * Traub, Philip
-    * [Troeltsch, Jim](/characters/Jim_Troeltsch)
+    * [Troeltsch, Jim](Jim_Troeltsch/)
     * Unwin, Frannie
     * Whale, Carl
     * Zweig, Felicity
   * faculty/staff
-    * [Charles Tavis](/characters/CT) (head master)
+    * [Charles Tavis](CT/) (head master)
     * Gerhardt Schtitt (head coach)
     * Aubrey deLint (asst. coach)
     * Tex Watson (prorector)
-    * [Corbett Thorpe](/characters/Corbett_Thorpe) (prorector)
+    * [Corbett Thorpe](Corbett_Thorpe/) (prorector)
     * Mlle. Thierry Poutrincourt (prorector)
-    * [Mary Esther Thode](/characters/Mary_Esther_Thode) (prorector)
+    * [Mary Esther Thode](Mary_Esther_Thode/) (prorector)
     * Neil Hartigan (prorector)
     * Tony Nwangi (prorector)
     * Rik Dunkel (prorector)
-    * ["Lateral" Alice Moore](/characters/Alice_Moore)
-    * [Dolores Rusk](/characters/Dolores_Rusk)
+    * ["Lateral" Alice Moore](Alice_Moore/)
+    * [Dolores Rusk](Dolores_Rusk/)
     * F.D.V. Harde (facilities/grounds crew manager)
     * Barry Loach (Head Trainer; origin story pp. 967-971)
   * misc.
-    * [Lyle](/characters/Lyle)
+    * [Lyle](Lyle/)
     * Kenkle &amp; Brandt (graveyard shift janitors)
 * Ennet House Drug and Alcohol Recovery House (*sic*)
   * residents
     * Belbin, Jennifer
     * Cortelyu, April
-    * [Day, Geoffrey](/characters/Geoffrey_Day)
+    * [Day, Geoffrey](Geoffrey_Day/)
     * Diehl, Gavin
-    * [Erdedy, Ken](/characters/Erdedy)
-    * [Ewell, Eldred ('Tiny')](/characters/Tiny_Ewell)
+    * [Erdedy, Ken](Erdedy/)
+    * [Ewell, Eldred ('Tiny')](Tiny_Ewell/)
     * Foss, Chandler
       * possibly having an in-House relationship with April?
     * Glynn, Doony (the worker's comp guy)
-    * [Gompert, Kate](/characters/Kate_Gompert)
-    * [Green, Bruce](/characters/Bruce_Green)
-    * [Gunther, Nell](/characters/Nell_Gunther)
+    * [Gompert, Kate](Kate_Gompert/)
+    * [Green, Bruce](Bruce_Green/)
+    * [Gunther, Nell](Nell_Gunther/)
     * Hanley, Morris (current resident? or alum?)
     * Henderson, Clenette
     * J., Amy
     * K., Dave (an ATHSCME exec)
-    * [Lenz, Randy](/characters/Randy_Lenz)
+    * [Lenz, Randy](Randy_Lenz/)
     * McDade, Wade
     * Minty, Emil (*not* a streetname?)
     * Neaves, Didi
@@ -115,15 +115,15 @@ permalink: /characters/
     * Thrale, Hester
     * Tingley, ___ (the kid in the closet)
     * van Cleve, Ruth
-    * [van Dyne, Joelle](/characters/Joelle)
+    * [van Dyne, Joelle](Joelle/)
     * Willis, Yolanda
   * staff
     * Pat Montesian (director)
     * Annie Parrot (asst. director)
-    * [Don Gately](/characters/Don_Gately) (live-in staff)
+    * [Don Gately](Don_Gately/) (live-in staff)
     * Johnette Foltz (live-in staff)
-    * [Calvin Thrust](/characters/Calvin_Thrust)
-    * [Gene M.](/characters/Gene_M) (Eugenio Martinez)
+    * [Calvin Thrust](Calvin_Thrust/)
+    * [Gene M.](Gene_M/) (Eugenio Martinez)
     * Danielle Steenbok
       * "leggy alumna and part-time counselor" (pp. 462)
 * White Flaggers
@@ -131,8 +131,8 @@ permalink: /characters/
   * Bud O.
   * Glenn Kubitz
   * Jack J.
-* [M. Hugh "Helen" Steeply](/characters/Steeply)
-* [Clipperton](/characters/Clipperton)
-* [Marlon Bain](/characters/Marlon_Bain)
-* [Matty Pemulis](/characters/Matty_Pemulis)
+* [M. Hugh "Helen" Steeply](Steeply/)
+* [Clipperton](Clipperton/)
+* [Marlon Bain](Marlon_Bain/)
+* [Matty Pemulis](Matty_Pemulis/)
 * Molly Notkin

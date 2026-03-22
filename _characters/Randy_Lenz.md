@@ -6,7 +6,7 @@ permalink: /characters/Randy_Lenz/
 Randy Lenz
 ----------
 
-[Ennet House](/places/Ennet_House) resident.
+[Ennet House](../../places/Ennet_House/) resident.
 
 Has a tattoo (right hip) with the name "Pamela" -- but has no recollection of
 anyone named Pamela, nor of getting the tattoo.
@@ -23,7 +23,7 @@ his wrist. (pp. 544)
 
 pp. 538 - description of Lenz's way of dealing with settling into sobriety;
 *i.e.*, by killing small animals during his walks home from AA/NA meetings (more
-on this in the "[Bruce Green](/characters/Bruce_Green)" entry)
+on this in the "[Bruce Green](../Bruce_Green/)" entry)
 
 > Lenz has such a panoply of strange compulsive habits that a request for
 > SteelSaks barely raises a brow on anybody.
@@ -45,4 +45,4 @@ Lenz kills animals by:
 
 Lenz visualizes (but does not commit) the murder of a homeless man.
 
-Ultimate fate: kidnapped by Marathe et al. and convinced to watch [The Entertainment](/misc/The_Entertainment)
+Ultimate fate: kidnapped by Marathe et al. and convinced to watch [The Entertainment](../../misc/The_Entertainment/)

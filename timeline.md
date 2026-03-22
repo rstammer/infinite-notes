@@ -25,14 +25,14 @@ Before Subsidization (B.S.)
 ---------------------------
 
 * Winter 1960
-  * Tucson AZ: [Himself](/characters/Himself) and his father (pp. 157)
+  * Tucson AZ: [Himself](../characters/Himself/) and his father (pp. 157)
 * Winter 1963
-  * Sepulveda, CA: how [Himself](/characters/Himself) first became interested in
+  * Sepulveda, CA: how [Himself](../characters/Himself/) first became interested in
     annulation (and/but : it must be an apocryphal story; if he is writing it as
     an adult then he would know that his father was drinking a Bloody Mary and
     had passed out)
 * 1991 (or 1992)
-  * [Don Gately](/characters/Don_Gately) (age 9) gets high for the first time
+  * [Don Gately](../characters/Don_Gately/) (age 9) gets high for the first time
     and incidentally winds up watching footage of the Rodney King beating
 
 Year of the Whopper
@@ -49,11 +49,11 @@ Year of the Tucks Medicated Pad
 
 <h3>June</h3>
 
-* [Hal](/characters/Hal) turns 13
+* [Hal](../characters/Hal/) turns 13
 
 <h3>24 November (Thanksgiving)</h3>
 
-* [Joelle](/characters/Joelle) brings [Orin](/characters/Orin) home to Shiny
+* [Joelle](../characters/Joelle/) brings [Orin](../characters/Orin/) home to Shiny
   Prize, KY for the family Thanksgiving...
   * awkwardness culminates in Joelle's father confessing to being 'in love' with
     her
@@ -63,32 +63,32 @@ Year of the Tucks Medicated Pad
 
 <h3>25 December (Christmas)</h3>
 
-* On or after Xmas, [Himself](/characters/Himself) stops drinking, as part of a
-  bargain with [Joelle](/characters/Joelle) to get her to appear in his film
+* On or after Xmas, [Himself](../characters/Himself/) stops drinking, as part of a
+  bargain with [Joelle](../characters/Joelle/) to get her to appear in his film
   (the one that would become *I.J.*)
 
 Year of the Trial Size Dove Bar
 -------------------------------
 
 * what *kind* of Dove Bar: chocolate? or soap?
-* 24 year old [Gately](/characters/Don_Gately) does a 17-month bit in Billerica
+* 24 year old [Gately](../characters/Don_Gately/) does a 17-month bit in Billerica
   for beating the shit out of two nightclub bouncers
   * and but so the way the story goes, he beat the shit out of one bouncer and
     then beat the shit out of the other bouncer *with the body of the first one*
 
 <h3>January</h3>
 
-* [Himself](/characters/Himself) (allegedly) stops drinking
+* [Himself](../characters/Himself/) (allegedly) stops drinking
 
 <h3>March</h3>
 
-* [Himself](/characters/Himself) is in detox
+* [Himself](../characters/Himself/) is in detox
 
 <h3>1 April</h3>
 
-* [Himself's](/characters/Himself) suicide (at age 54)
+* [Himself's](../characters/Himself/) suicide (at age 54)
   * juryrigging of a microwave oven so he can nuke his own head
-  * [Hal](/characters/Hal) finds him (pp. 248)
+  * [Hal](../characters/Hal/) finds him (pp. 248)
   * *CONFLICT?* aren't there earlier notes that say "10 August" as date of death?
 
 > something smells delicious
@@ -96,16 +96,16 @@ Year of the Trial Size Dove Bar
 Year of the Perdue Wonderchicken
 --------------------------------
 
-* [Hal](/characters/Hal) is in 7th grade
+* [Hal](../characters/Hal/) is in 7th grade
   * his essay (pp. 140)
   * 4 years post-broadcast television
-  * 1 year after [Himself's](/characters/Himself) death (at age 54)
+  * 1 year after [Himself's](../characters/Himself/) death (at age 54)
   * then another essage (pp. 414)
 
 Year of the Whisper-Quiet Maytag Dishmaster
 -------------------------------------------
 
-* [Gately](/characters/Don_Gately) loses his driver's license "more or less permanently"
+* [Gately](../characters/Don_Gately/) loses his driver's license "more or less permanently"
 
 Year of the Yushityu 2007 Mimetic-Resolution-Cartridge-View-Motherboard-Easy-To-Install-Upgrade For Infernatron/InterLace TP Systems For Home, Office Or Mobile [sic]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -115,7 +115,7 @@ Year of the Yushityu 2007 Mimetic-Resolution-Cartridge-View-Motherboard-Easy-To-
 Year of Dairy Products from the American Heartland
 --------------------------------------------------
 
-* (our) introduction to [Don Gately](/characters/Don_Gately)
+* (our) introduction to [Don Gately](../characters/Don_Gately/)
   * 27 years old
   * predilection toward (addicted to?) Demerol, Talwin
 
@@ -124,7 +124,7 @@ Year of the Depends Adult Undergarment
 
 <h3>1 April</h3>
 
-* the medical attaché receives [The Entertainment](/misc/The_Entertainment)
+* the medical attaché receives [The Entertainment](../misc/The_Entertainment/)
   * it arrives in a plain padded mailer
   * it bears a smiley face and envelope reads "HAPPY ANNIVERSARY!"
   * the cartridge is otherwise unmarked
@@ -139,14 +139,14 @@ Year of the Depends Adult Undergarment
   * Prince Q.--'s personal physician
   * (2) armed Embassy Security guards (assigned to Prince Q.--)
   * (2) Seventh Day Adventists
-  * ...and [The Entertainment](/misc/The_Entertainment)
+  * ...and [The Entertainment](../misc/The_Entertainment/)
 
 <h3>30 April</h3>
 
-* 1st appearance (in the text) of [M. Hugh Steeply](/characters/Steeply) and
-  [Marathe](/characters/Marathe)
+* 1st appearance (in the text) of [M. Hugh Steeply](../characters/Steeply/) and
+  [Marathe](../characters/Marathe/)
   * They meet to discuss an "anti-Entertainment"
-  * (and is *that* what's in [Himself's](/characters/Himself) head?)
+  * (and is *that* what's in [Himself's](../characters/Himself/) head?)
     * (and if so: isn't that quite a big statement there re: solipsism and that
       whole "your fear is your own" thing? and/or your delight?)
 
@@ -158,7 +158,7 @@ Year of the Depends Adult Undergarment
 
 <h3>1 May</h3>
 
-* [Steeply](/characters/Steeply) and [Marathe](/characters/Marathe) continue
+* [Steeply](../characters/Steeply/) and [Marathe](../characters/Marathe/) continue
   their (mountain-top) conversation
   * Steeply talks about his father's "MASH" obsession
 
@@ -167,9 +167,9 @@ Year of the Depends Adult Undergarment
 
 <h3>July</h3>
 
-* [Gately](/characters/Don_Gately) (at 10 months sober) admits to his AA peers
+* [Gately](../characters/Don_Gately/) (at 10 months sober) admits to his AA peers
   that he doesn't have a clue re: his Higher Power
-  * *SIDE NOTE:* could [Himself](/characters/Himself) be Gately's H.P.??
+  * *SIDE NOTE:* could [Himself](../characters/Himself/) be Gately's H.P.??
 
 > ...when he kneels at other times and prays or meditates or tries to achieve a
 > Big-Picture spiritual understanding of a God as he can understand Him, he
@@ -184,7 +184,7 @@ Year of the Depends Adult Undergarment
 
 <h3>October</h3>
 
-* urine collection episode at [ETA](/places/ETA)
+* urine collection episode at [ETA](../places/ETA/)
 
 > ...friendship at ETA is a nonnegotiable currency.
 
@@ -193,13 +193,13 @@ Year of the Depends Adult Undergarment
   * note that he does not become agitated until he goes to MIT and sees the
     screen that she uses even on the air
   * *question:* how is it that Mario doesn't realize that Madame Psychosis *is*
-    [JVD](/characters/Joelle)? wouldn't he have been around the set enough w/
-    [Himself](/characters/Himself) to have known her?
-* [Hal](/characters/Hal) is having recurring tooth dreams
+    [JVD](../characters/Joelle/)? wouldn't he have been around the set enough w/
+    [Himself](../characters/Himself/) to have known her?
+* [Hal](../characters/Hal/) is having recurring tooth dreams
 
 <h3>24 October (United Nations Day)</h3>
 
-* 1st time that [Randy Lenz](/characters/Randy_Lenz) kills a cat (pp. 544)
+* 1st time that [Randy Lenz](../characters/Randy_Lenz/) kills a cat (pp. 544)
 
 <h3>early November</h3>
 
@@ -212,22 +212,22 @@ Year of the Depends Adult Undergarment
 
 <h3>3 November</h3>
 
-* [Jim Troeltsch](/characters/Jim_Troeltsch) is back in the room, sick
+* [Jim Troeltsch](../characters/Jim_Troeltsch/) is back in the room, sick
   * apropos of nothing?
-* [Orin](/characters/Orin) calling [Hal](/characters/Hal) and asking about
+* [Orin](../characters/Orin/) calling [Hal](../characters/Hal/) and asking about
   Canada and (more specifically) about Quebecois separatism
 
 <h3>4 November</h3>
 
-* [Pemulis](/characters/Pemulis) returns to [ETA](/places/ETA) with [DMZ](/misc/DMZ)
-  * Pemulis bought the DMZ from the [Antitoi Brothers](/characters/Antitoi_Brothers) (pp. 215)
-* fork-stabbing incident at [Ennet House](/places/Ennet_House)
-  * [Nell](/characters/Nell_Gunther) did the fork-stabbing
+* [Pemulis](../characters/Pemulis/) returns to [ETA](../places/ETA/) with [DMZ](../misc/DMZ/)
+  * Pemulis bought the DMZ from the [Antitoi Brothers](../characters/Antitoi_Brothers/) (pp. 215)
+* fork-stabbing incident at [Ennet House](../places/Ennet_House/)
+  * [Nell](../characters/Nell_Gunther/) did the fork-stabbing
   * *1st appearance in the text* (pp. 176)
 
 <h3>5 November</h3>
 
-* [Hal](/characters/Hal) and [Orin](/characters/Orin) on the phone
+* [Hal](../characters/Hal/) and [Orin](../characters/Orin/) on the phone
   * Hal clipping his toenails (pp. 242)
   * Orin with questions about Qc. separatism
   * Orin suspects he is being followed by "handicapped people"
@@ -236,18 +236,18 @@ Year of the Depends Adult Undergarment
 
 <h3>6 November</h3>
 
-* [Pemulis](/characters/Pemulis) + [Hal](/characters/Hal) + [Axford](/characters/Axford)
-  discussing the [DMZ](/misc/DMZ)
+* [Pemulis](../characters/Pemulis/) + [Hal](../characters/Hal/) + [Axford](../characters/Axford/)
+  discussing the [DMZ](../misc/DMZ/)
   * (*ed.* seems like this isn't placed correctly? like this must have been 11/4?)
-* annual match/tournament b/w [ETA](/places/ETA) and Port Washington
-  * [Schacht](/characters/Schacht) and Troeltsch as "consummate doubles partners"
-* [Gately](/characters/Don_Gately) has been clean for 421 days
+* annual match/tournament b/w [ETA](../places/ETA/) and Port Washington
+  * [Schacht](../characters/Schacht/) and Troeltsch as "consummate doubles partners"
+* [Gately](../characters/Don_Gately/) has been clean for 421 days
   * also: he is almost 29 years old
 
 <h3>7 November</h3>
 
-* [Joelle Van Dyne's](/characters/Joelle) narrative introduction via overdose (pp. 219)
-* (on prorectors at [ETA](/places/ETA))
+* [Joelle Van Dyne's](../characters/Joelle/) narrative introduction via overdose (pp. 219)
+* (on prorectors at [ETA](../places/ETA/))
 
 <h3>8 November</h3>
 
@@ -270,12 +270,12 @@ Year of the Depends Adult Undergarment
 > vehicle closely resembles a topspin lob.
 
 * Mario's kiddie adaptation of *The ONANtiad*
-  * which: [Himself's](/characters/Himself) *ONANtiad* is described in footnotes
+  * which: [Himself's](../characters/Himself/) *ONANtiad* is described in footnotes
     as 76 minutes, and/but the narrative here calls it 4 hours (!?!?!?)
 
 <h3>9 November</h3>
 
-* **late p.m.** [Pemulis](/characters/Pemulis) catches [Avril](/characters/Avril)
+* **late p.m.** [Pemulis](../characters/Pemulis/) catches [Avril](../characters/Avril/)
   and John ('N.R.') Wayne in a ... compromising situation
 
 <h3>10 November</h3>
@@ -292,14 +292,14 @@ Year of the Depends Adult Undergarment
   * Gately and Joelle; she is talking about snow and about herself
   * Joelle: "I am so beautiful I am deformed" (pp. 538)
   * (but by then, Gately doesn't believe her)
-* Steeply is on-campus at [ETA](/places/ETA)
-  * Schtitt set up an exhibition match between [Ortho](/characters/Ortho) and
-    [Hal](/characters/Hal) (Ortho *almost* beats Hal)
+* Steeply is on-campus at [ETA](../places/ETA/)
+  * Schtitt set up an exhibition match between [Ortho](../characters/Ortho/) and
+    [Hal](../characters/Hal/) (Ortho *almost* beats Hal)
   * Later: Hal goes looking for Schtitt and finds deLint, wants to know what
-    went wrong out there (i.e., on the courts) against [Stice](/characters/Ortho)
+    went wrong out there (i.e., on the courts) against [Stice](../characters/Ortho/)
     * deLint: "You never *occurred* out there, kid." (pp. 686)
   * Even later: Hal retreats to a viewing room to sulk and watch some of
-    [Himself's](/characters/Himself) films
+    [Himself's](../characters/Himself/) films
     * a list of the films (pp. 687)
     * he's depressed, lonely: (solipsism! -- pp. 694)
 
@@ -348,20 +348,20 @@ Year of the Depends Adult Undergarment
 
 * Ennet House is all unscrewed and meditative (almost) in the aftermath of the
   Lenz Incident
-  * 0245h - [G. Day](/characters/Geoffrey_Day) holding court re: essential
+  * 0245h - [G. Day](../characters/Geoffrey_Day/) holding court re: essential
     horrors (pp. 648-651)
 
 <h3>14 November</h3>
 
-* [Poor Tony Krause](/characters/Poor_Tony) and his seizure on the T.
+* [Poor Tony Krause](../characters/Poor_Tony/) and his seizure on the T.
   * and though he is transported to the hospital by ambulance, they release him
     on his own recognisance after he insists that he is fine (and also shows
     that his Health Card has lapsed)
   * he heads off to seek out the Antitoi Bros.
-  * en route to Antitoi, he intercepts [Ennet House](/places/Ennet_House)
+  * en route to Antitoi, he intercepts [Ennet House](../places/Ennet_House/)
     residents Ruth van Cleve and Kate Gompert, and performs a little street crime
 * Antitoi Bros. killed by A.F.R., while A.F.R. searches their store for
-  [The Entertainment](/misc/The_Entertainment)
+  [The Entertainment](../misc/The_Entertainment/)
   * Marathe is helping
 * Marathe is trying to infiltrate Ennet House
   * pretending to be "Swiss"
@@ -369,7 +369,7 @@ Year of the Depends Adult Undergarment
 * Marathe and Kate Gompert:
   * he's buying her drinks
   * he's telling her about his wife
-  * he convinces her to go watch [The Entertainment](/misc/The_Entertainment)
+  * he convinces her to go watch [The Entertainment](../misc/The_Entertainment/)
 
 <h3>17 November</h3>
 
@@ -377,8 +377,8 @@ Year of the Depends Adult Undergarment
   * talks to Johnette Foltz (who describes Hal as looking her age)
   * the residents are still all worked up from The Lenz incident
   * cops have been around to Ennet House to depose some of the residents
-* R. Tine Jr. interviews Molly Notkin re: [Joelle v.D.](/characters/Joelle) and
-  [The Entertainment](/misc/The_Entertainment)
+* R. Tine Jr. interviews Molly Notkin re: [Joelle v.D.](../characters/Joelle/) and
+  [The Entertainment](../misc/The_Entertainment/)
   * (the date is unclear, but the placement in the text (pp. 787-) suggests it's
     happening around 17 Nov.)
 * "Wayne's lost his mind!" (fn. 324, pp. 1066)
@@ -412,7 +412,7 @@ Year of the Depends Adult Undergarment
 * people start to notice (misinterpret?) Hal as having incongruous emotional affect
   * starts with Ortho: *"Are you crying?"*
 * the "Fully Functional Phil" meeting
-* [Steeply](/characters/Steeply) intercepts [Joelle](/characters/Joelle) at St.
+* [Steeply](../characters/Steeply/) intercepts [Joelle](../characters/Joelle/) at St.
   Elizabeth's and escorts her to safety, explains the situation that is
   developing w/r/t/ the A.F.R.
 
@@ -432,7 +432,7 @@ Year of Glad
 
 * Hal in Arizona (17? 18?)
 * fn. 114 : so...
-  * [Himself's](/characters/Himself) grandfather as a (the?) connection to "Glad"
+  * [Himself's](../characters/Himself/) grandfather as a (the?) connection to "Glad"
     * (if nothing else: implying some circularity?)
   * Year of Glad as *last* (!?) year of Subsidized Time?
 

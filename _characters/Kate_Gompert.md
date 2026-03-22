@@ -14,6 +14,6 @@ following her 4th suicide attempt.
 
 (pp. 75)
 
-Kate has got (what sounds like) basically the same problem as [Erdedy](/characters/Erdedy).
+Kate has got (what sounds like) basically the same problem as [Erdedy](../Erdedy/).
 
-Ultimate fate: kidnapped by Marathe et al. and convinced to watch [The Entertainment](/misc/The_Entertainment)
+Ultimate fate: kidnapped by Marathe et al. and convinced to watch [The Entertainment](../../misc/The_Entertainment/)

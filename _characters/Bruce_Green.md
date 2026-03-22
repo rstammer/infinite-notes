@@ -17,7 +17,7 @@ favorite) when in fact his father substituted the can of nuts with an Acme Nuts
 making a bunch of over-powered explosive gag cigars. (pp. 579-581)
 
 Did he miss curfew only once? or does the reference on pp. 538 refer to
-"The [Lenz](/characters/Randy_Lenz) Incident"? - which is confusing because it's
+"The [Lenz](../Randy_Lenz/) Incident"? - which is confusing because it's
 a passage used to set up the whole bit about Lenz and his small animal killings,
 but since it's at the beginning, it sounds like this is a time Bruce Green
 missed curfew at the *beginning* of the whole small animal killing stuff, and

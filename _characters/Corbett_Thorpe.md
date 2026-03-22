@@ -6,7 +6,7 @@ permalink: /characters/Corbett_Thorpe/
 Corbett Thorpe
 --------------
 
-Prorector at [ETA](/places/ETA).
+Prorector at [ETA](../../places/ETA/).
 
 Stutters.
 
