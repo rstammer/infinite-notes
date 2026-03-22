@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} — Infinite Jest: Notes</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    .container { max-width: none; }
+    .content { max-width: none; flex: 1; }
+    .graph-wrapper {
+      width: 100%;
+      height: 75vh;
+      border: 1px solid #ddd;
+      position: relative;
+      background: #fafafa;
+      margin: 1rem 0;
+    }
+    .graph-wrapper svg { width: 100%; height: 100%; }
+    .graph-controls {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 1rem;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 0.8rem;
+    }
+    .graph-controls label {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 0.7rem;
+      color: #888;
+    }
+    .graph-controls select, .graph-controls input {
+      font-size: 0.8rem;
+      padding: 0.2em 0.5em;
+      border: 1px solid #ccc;
+      background: #fff;
+    }
+    .graph-legend {
+      display: flex;
+      gap: 1.2rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.5rem;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #888;
+    }
+    .graph-legend span {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .tooltip {
+      position: absolute;
+      background: #111;
+      color: #fff;
+      padding: 0.5em 0.8em;
+      font-size: 0.8rem;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      pointer-events: none;
+      border-radius: 2px;
+      max-width: 250px;
+      line-height: 1.4;
+      z-index: 10;
+    }
+    .tooltip .tt-name { font-weight: bold; }
+    .tooltip .tt-group { color: #999; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; }
+  </style>
+</head>
+<body>
+  <div class="site">
+    <header class="site-header">
+      <h1><a href="{{ '/' | relative_url }}"><em>Infinite Jest</em>: Notes etc.</a></h1>
+    </header>
+    <div class="container">
+      <nav class="sidebar">
+        <ul>
+          <li><a href="{{ '/characters/' | relative_url }}">Characters</a></li>
+          <li><a href="{{ '/places/' | relative_url }}">Places</a></li>
+          <li><a href="{{ '/misc/' | relative_url }}">Misc</a></li>
+          <li><a href="{{ '/words/' | relative_url }}">Words</a></li>
+          <li><a href="{{ '/themes/' | relative_url }}">Themes</a></li>
+          <li><a href="{{ '/timeline/' | relative_url }}">Timeline</a></li>
+          <li><a href="{{ '/graph/' | relative_url }}">Graph</a></li>
+        </ul>
+        <ul class="nav-secondary">
+          <li><a href="{{ '/unsorted/' | relative_url }}">Unsorted</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+        </ul>
+      </nav>
+      <main class="content">
+        {{ content }}
+      </main>
+    </div>
+    <footer class="site-footer">
+      <a href="https://github.com/rstammer/infinite-notes">GitHub</a> · <a href="https://stammer.dev">stammer.dev</a> · Robin Stammer
+    </footer>
+  </div>
+  <script src="{{ '/assets/graph.js' | relative_url }}"></script>
+</body>
+</html>
