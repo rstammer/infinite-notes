@@ -214,26 +214,23 @@ a:hover {
 
 /* Home page */
 .home-hero {
-  margin-bottom: 3rem;
-  padding-bottom: 2.5rem;
-  border-bottom: 1px solid #ddd;
+  margin-bottom: 2rem;
+  color: #555;
+  font-size: 0.95rem;
 }
 
 .home-hero em {
-  font-size: 1.8rem;
-  display: block;
-  margin-bottom: 0.3rem;
-  color: #111;
+  font-style: italic;
 }
 
 .home-hero p {
-  color: #555;
+  margin: 0;
 }
 
 .home-sections {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 2.5rem;
+  gap: 2rem 3rem;
 }
 
 .home-sections section {
@@ -241,29 +238,28 @@ a:hover {
 }
 
 .home-sections h2 {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #111;
-  margin: 0 0 0.8rem;
+  color: #999;
+  margin: 0 0 0.6rem;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: bold;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.5em;
+  font-weight: normal;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.4em;
 }
 
 .home-sections ul {
   list-style: none;
   margin: 0;
   padding: 0;
-  column-count: 2;
-  column-gap: 1.5rem;
 }
 
 .home-sections li {
-  margin-bottom: 0.15rem;
-  font-size: 0.88rem;
-  line-height: 1.5;
+  margin-bottom: 0.1rem;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  padding-left: 0;
 }
 
 .home-sections li::before {

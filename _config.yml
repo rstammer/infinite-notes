@@ -16,9 +16,6 @@ collections:
   places:
     output: true
     permalink: /places/:name/
-  misc:
-    output: true
-    permalink: /misc/:name/
 
 defaults:
   - scope:
@@ -29,11 +26,6 @@ defaults:
   - scope:
       path: ""
       type: "places"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "misc"
     values:
       layout: "default"
   - scope:
