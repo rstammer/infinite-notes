@@ -514,7 +514,9 @@
     })
     .on("click", function (event, d) {
       if (d.link) {
-        window.location.href = d.link;
+        var base = document.querySelector('meta[name="baseurl"]');
+        var prefix = base ? base.getAttribute("content") : "";
+        window.location.href = prefix + d.link;
       }
     });
 
