@@ -8,15 +8,15 @@ Approximate real-world years[^1] are shown in gray.
 
 <div class="timeline-toc" markdown="0">
 <a href="#before-subsidization-bs">Before Subsidization (B.S.)</a> <span>— pre-2002</span>
-<a href="#year-of-the-whopper">Year of the Whopper</a> <span>— ~2002</span>
-<a href="#year-of-the-tucks-medicated-pad">Year of the Tucks Medicated Pad</a> <span>— ~2003</span>
-<a href="#year-of-the-trial-size-dove-bar">Year of the Trial-Size Dove Bar</a> <span>— ~2004</span>
-<a href="#year-of-the-perdue-wonderchicken">Year of the Perdue Wonderchicken</a> <span>— ~2005</span>
-<a href="#year-of-the-whisper-quiet-maytag-dishmaster">Year of the Whisper-Quiet Maytag Dishmaster</a> <span>— ~2006</span>
+<a href="#year-of-the-whopper">Year of the Whopper</a> <span>— ~2002 · <em>Jahr des Whoppers</em></span>
+<a href="#year-of-the-tucks-medicated-pad">Year of the Tucks Medicated Pad</a> <span>— ~2003 · <em>Jahr der medizinischen Tucks-Kompresse</em></span>
+<a href="#year-of-the-trial-size-dove-bar">Year of the Trial-Size Dove Bar</a> <span>— ~2004 · <em>Jahr des Dove-Riegels in Probiergröße</em></span>
+<a href="#year-of-the-perdue-wonderchicken">Year of the Perdue Wonderchicken</a> <span>— ~2005 · <em>Jahr des Perdue-Wunderhuhns</em></span>
+<a href="#year-of-the-whisper-quiet-maytag-dishmaster">Year of the Whisper-Quiet Maytag Dishmaster</a> <span>— ~2006 · <em>Jahr des flüsterleisen Maytag-Geschirrspülmeisters</em></span>
 <a href="#year-of-the-yushityu-2007-mimetic-resolution-cartridge-view-motherboard-easy-to-install-upgrade-for-infernatroninterlace-tp-systems-for-home-office-or-mobile-sic">Year of the Yushityu 2007...</a> <span>— ~2007</span>
-<a href="#year-of-dairy-products-from-the-american-heartland">Year of Dairy Products from the American Heartland</a> <span>— ~2008</span>
-<a href="#year-of-the-depends-adult-undergarment">Year of the Depends Adult Undergarment (YDAU)</a> <span>— ~2009</span>
-<a href="#year-of-glad">Year of Glad</a> <span>— ~2010</span>
+<a href="#year-of-dairy-products-from-the-american-heartland">Year of Dairy Products from the American Heartland</a> <span>— ~2008 · <em>Jahr der Milchprodukte aus dem Herzen Amerikas</em></span>
+<a href="#year-of-the-depends-adult-undergarment">Year of the Depends Adult Undergarment (YDAU)</a> <span>— ~2009 · <em>Jahr der Depend-Erwachsenenwindel</em></span>
+<a href="#year-of-glad">Year of Glad</a> <span>— ~2010 · <em>Jahr von Glad</em></span>
 </div>
 
 ---
