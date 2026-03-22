@@ -3,6 +3,24 @@ title: Timeline
 permalink: /timeline/
 ---
 
+Approximate real-world years[^1] are shown in gray.
+{: .timeline-note}
+
+<div class="timeline-toc" markdown="0">
+<a href="#before-subsidization-bs">Before Subsidization (B.S.)</a> <span>— pre-2002</span>
+<a href="#year-of-the-whopper">Year of the Whopper</a> <span>— ~2002</span>
+<a href="#year-of-the-tucks-medicated-pad">Year of the Tucks Medicated Pad</a> <span>— ~2003</span>
+<a href="#year-of-the-trial-size-dove-bar">Year of the Trial-Size Dove Bar</a> <span>— ~2004</span>
+<a href="#year-of-the-perdue-wonderchicken">Year of the Perdue Wonderchicken</a> <span>— ~2005</span>
+<a href="#year-of-the-whisper-quiet-maytag-dishmaster">Year of the Whisper-Quiet Maytag Dishmaster</a> <span>— ~2006</span>
+<a href="#year-of-the-yushityu-2007-mimetic-resolution-cartridge-view-motherboard-easy-to-install-upgrade-for-infernatroninterlace-tp-systems-for-home-office-or-mobile-sic">Year of the Yushityu 2007...</a> <span>— ~2007</span>
+<a href="#year-of-dairy-products-from-the-american-heartland">Year of Dairy Products from the American Heartland</a> <span>— ~2008</span>
+<a href="#year-of-the-depends-adult-undergarment">Year of the Depends Adult Undergarment (YDAU)</a> <span>— ~2009</span>
+<a href="#year-of-glad">Year of Glad</a> <span>— ~2010</span>
+</div>
+
+---
+
 Before Subsidization (B.S.)
 ---------------------------
 
@@ -417,3 +435,7 @@ Year of Glad
   * [Himself's](/characters/Himself) grandfather as a (the?) connection to "Glad"
     * (if nothing else: implying some circularity?)
   * Year of Glad as *last* (!?) year of Subsidized Time?
+
+---
+
+[^1]: The real-world year mapping is not canonical — DFW never provided one. It is a fan reconstruction based on textual clues: Hal's birth year (~1981, age 17 in YDAU), Gately watching the Rodney King beating (1992) at age ~9, and the year sequence listed in endnote 114. See the [Infinite Jest Wiki](http://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Main_Page) for a detailed breakdown.

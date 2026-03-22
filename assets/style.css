@@ -182,6 +182,37 @@ a:hover {
   margin: 2.5rem 0;
 }
 
+/* Timeline TOC */
+.timeline-toc {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.timeline-toc a {
+  text-decoration: none;
+  color: #111;
+}
+
+.timeline-toc a:hover {
+  text-decoration: underline;
+}
+
+.timeline-toc span {
+  color: #aaa;
+  font-size: 0.8rem;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.timeline-note {
+  color: #999;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-bottom: 0.8rem;
+}
+
 .content table {
   border-collapse: collapse;
   margin: 1em 0;
