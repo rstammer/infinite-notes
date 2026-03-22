@@ -1,0 +1,46 @@
+---
+title: Themes
+permalink: /themes/
+---
+
+<h3>solipsism (isolation?)</h3>
+* [Himself's](/characters/Himself) persistent hallucinations that [Hal](/characters/Hal)
+    cannot speak
+* hiding true feelings (e.g., [bathrooms?](/places/bathrooms))
+
+> Even the "we" is theory: I never quite get to see the distant opponent, for
+> all the apparatus of the game.
+
+(pp. 68)
+
+> Classic unipolars were usually tormented by the conviction that no one else
+> could hear or understand them when they tried to communicate.
+
+(pp. 75)
+
+<h3>fear</h3>
+* the fear belongs to you alone
+* that fear is incommunicable
+* that one might share aspects of one's fear, but not its essence (pp. 61-63)
+
+> And any dreams you do have seem ragged at the edges, gnawed on, incomplete.
+
+<h3>black humor</h3>
+
+* "the insurance claim" (pp. 138)
+
+<h3>vanity</h3>
+
+* on video phonography (pp. 144-151)
+
+<h3>miscellaneous loose ends</h3>
+
+> American experience seems to suggest that people are virtually unlimited in
+> their need to give themselves away, on various levels.
+
+> A U.S. of modern A. where the State is not a team or a code, but a sort of
+> sloppy intersection of desires and fears, where the only public consensus a
+> boy must surrender to is the acknowledged primacy of straight-line pursuing
+> this flat and short-sighted idea of personal happiness...
+
+(pp. 83) -- 1st ¶ @ pp. 84 5★

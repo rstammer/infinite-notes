@@ -1,0 +1,42 @@
+title: "Infinite Jest: Notes etc."
+description: "Co-reading notes for Infinite Jest by David Foster Wallace"
+baseurl: "/infinite-notes"
+url: "https://rstammer.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+permalink: pretty
+
+collections:
+  characters:
+    output: true
+    permalink: /characters/:name/
+  places:
+    output: true
+    permalink: /places/:name/
+  misc:
+    output: true
+    permalink: /misc/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "characters"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "places"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "misc"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

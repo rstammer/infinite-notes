@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} — Infinite Jest: Notes</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="site">
+    <header class="site-header">
+      <h1><a href="{{ '/' | relative_url }}"><em>Infinite Jest</em>: Notes etc.</a></h1>
+    </header>
+    <div class="container">
+      <nav class="sidebar">
+        <ul>
+          <li><a href="{{ '/characters/' | relative_url }}">Characters</a></li>
+          <li><a href="{{ '/places/' | relative_url }}">Places</a></li>
+          <li><a href="{{ '/misc/' | relative_url }}">Misc</a></li>
+          <li><a href="{{ '/words/' | relative_url }}">Words</a></li>
+          <li><a href="{{ '/themes/' | relative_url }}">Themes</a></li>
+          <li><a href="{{ '/timeline/' | relative_url }}">Timeline</a></li>
+        </ul>
+        <ul class="nav-secondary">
+          <li><a href="{{ '/errata/' | relative_url }}">Errata</a></li>
+          <li><a href="{{ '/todo/' | relative_url }}">Todo</a></li>
+          <li><a href="{{ '/unsorted/' | relative_url }}">Unsorted</a></li>
+        </ul>
+      </nav>
+      <main class="content">
+        {{ content }}
+      </main>
+    </div>
+    <footer class="site-footer">
+      <a href="https://github.com/rstammer/infinite-notes">on GitHub</a>
+    </footer>
+  </div>
+</body>
+</html>
